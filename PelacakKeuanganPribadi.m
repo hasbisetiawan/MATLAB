@@ -2,7 +2,7 @@
 %PROJECT UAS KALKULUS
 %Program Pelacak Keuangan Pribadi 
 %Oleh : Kelompok N
-%Anggota : Hasbi Setiawan[231810201043] & Fikri Setiawan[231810201054]
+%Anggota : Hasbi Setiawan[] & Fikri Setiawan[]
 %File : N_Hasbi&Fikri
 %---------------------------------------------------------------------
 
